@@ -1,13 +1,13 @@
-
-She is currently deeply in love with Maciek.
+Thanks for visiting my website and your interest in my research. I am currently a postdoctoral fellow at Aston University in the College of Life and Health Sciences. My overarching research interests are child psychology, eating behaviours and child development. The current project I am working on is the ESRC funded research Appetite in Preschoolers: Producing Evidence for Tailoring Interventions Effectively [(APPETItE)](https://www.appetite-research.com/).
 
 #### Email
-sli[at]cumt.edu.cn
+
+[a.pickard\@aston.ac.uk](mailto:a.pickard@aston.ac.uk){.email}
 
 #### Education
-2022.08 - present, Computer Science and Technology, School of Computer Science and Technology, China University of Mining and Technology.
 
-2018.08 - 2022.06, Data Science and Big Data Technology, School of Computer Science and Technology, China University of Mining and Technology.
+To be added soon.
 
 #### Research Intersts
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+
+To be added soon.
