@@ -1,7 +1,3 @@
-
-
-  
-
 - Pickard, A., (2023, November). Identifying an avid eating profile in childhood: associations with temperament, feeding practices and food insecurity. Presentation at Novo Nordisk Foundation Science Cluster Conference: Prevention of Childhood Obesity 2023. Hillerod, Denmark.
 
 - Pickard, A., (2023, November). A critical review of opportunities, within a complex food system, to boost food literacy and foster healthy eating behaviours in childhood and adolescence. [Poster session]. Presentation at Novo Nordisk Foundation Science Cluster Conference: Prevention of Childhood Obesity 2023. Hellerup, Denmark.

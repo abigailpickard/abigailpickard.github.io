@@ -1,8 +1,3 @@
--   <strong><strong>Pickard, A.</strong></strong>, Croker, H., Edwards, K., Farrow, C., Haycraft, E., Herle, M., Kininmonth, A., Llewellyn, C., & Blissett, J. (2023). Identifying an avid eating profile in childhood: associations with temperament, feeding practices and food insecurity. Appetite 191,
-    107050. [[Paper]](https://doi.org/10.1016/j.appet.2023.107050)
+-   <strong><strong>Pickard, A.</strong></strong>, Croker, H., Edwards, K., Farrow, C., Haycraft, E., Herle, M., Kininmonth, A., Llewellyn, C., & Blissett, J. (2023). Identifying an avid eating profile in childhood: associations with temperament, feeding practices and food insecurity. Appetite 191, 107050. [[Paper]](https://doi.org/10.1016/j.appet.2023.107050)
 
--   Varela, P., De Rosso, S., Moura, A., Philippe, K., <strong><strong>Pickard, A.<strong><strong>, Rageliene, T., Sick, J., van Nee, R., Almli, V., Ares, G., Gronhoj, A., Spinelli, S., van Kleef, E. (2023). Bringing down barriers to children\'s healthy eating: a critical review of opportunities, within a complex food system. Nutrition Research Reviews, 1-58. [[Paper]](https://doi.org/10.1017/S0954422423000203)
-
--   *Cao, A., Yang, X., Wang, C.,* <strong><strong>Li, S.</strong></strong>, Liu, Y., Dou, L. & Niu, Q. (2023). High-precision phase picking and automatic source locating method for seismicity in mines based on deep transfer learning. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
-
--   
+-   Varela, P., De Rosso, S., Moura, A., Philippe, K., <strong><strong>Pickard, A.</strong></strong>, Rageliene, T., Sick, J., van Nee, R., Almli, V., Ares, G., Gronhoj, A., Spinelli, S., van Kleef, E. (2023). Bringing down barriers to children's healthy eating: a critical review of opportunities, within a complex food system. Nutrition Research Reviews, 1-58. [[Paper]](https://doi.org/10.1017/S0954422423000203)
