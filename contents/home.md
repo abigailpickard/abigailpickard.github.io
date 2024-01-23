@@ -2,7 +2,7 @@ Thanks for visiting my website and your interest in my research. I am currently 
 
 #### Email
 
-[a.pickard\@aston.ac.uk](mailto:a.pickard@aston.ac.uk){.email}
+[a.pickard\@aston.ac.uk](mailto:a.pickard@aston.ac.uk)
 
 #### Education
 
