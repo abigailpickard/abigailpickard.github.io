@@ -1,14 +1,7 @@
+-   Institute of Health and Neurodevelopment (IHN) Postdoc/Fellow Award - In recognition of the enthusiasm and energy given to IHN, March 2023, Aston University.
 
+-   Award for the best oral communication -- translating research into daily practice, 2022, European Childhood Obesity Group, France.
 
-  
+-   Public Choice Award in Social Sciences and Economics, 2017, European Student Research Conference, The Netherlands.
 
-
-- First-prize Academic Scholarship, 2023.
-
-- Freshman Academic Scholarship, 2022.
-
-- Excellent Graduation Project of Jiangsu Province, 2022.
-
-- First-prize Enterprise Scholarship, 2021.
-
-- First-prize Academic Scholarship, 2019.
+-   Research Award in Economics & Social Sciences, 2017, European Student Research Conference, The Netherlands.
