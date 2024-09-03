@@ -1,3 +1,7 @@
+-   <strong><strong>Pickard, A.</strong></strong>, Farrow, C., Haycraft, E., Herle, M., Edwards, K., Llewellyn, C., ... & Blissett, J. (2024). Associations between parent and child latent eating profiles and the role of parental feeding practices. Appetite, 201, 107589. [[Paper]](https://doi.org/10.1016/j.appet.2024.107589)
+
+-   Edwards, K. L., <strong><strong>Pickard, A.</strong></strong>, Farrow, C., Haycraft, E., Herle, M., Llewellyn, C., ... & Blissett, J. (2024). Differences in parental behaviour, emotions, and cognitions and between children’s eating profiles. Appetite, 107641. [[Paper]](https://doi.org/10.1016/j.appet.2024.107641)
+
 -   <strong><strong>Pickard, A.</strong></strong>, Croker, H., Edwards, K., Farrow, C., Haycraft, E., Herle, M., Kininmonth, A., Llewellyn, C., & Blissett, J. (2023). Identifying an avid eating profile in childhood: associations with temperament, feeding practices and food insecurity. Appetite 191, 107050. [[Paper]](https://doi.org/10.1016/j.appet.2023.107050)
 
 -   Varela, P., De Rosso, S., Moura, A., Philippe, K., <strong><strong>Pickard, A.</strong></strong>, Rageliene, T., Sick, J., van Nee, R., Almli, V., Ares, G., Gronhoj, A., Spinelli, S., van Kleef, E. (2023). Bringing down barriers to children's healthy eating: a critical review of opportunities, within a complex food system. Nutrition Research Reviews, 1-58. [[Paper]](https://doi.org/10.1017/S0954422423000203)
