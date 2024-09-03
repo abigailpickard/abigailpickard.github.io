@@ -1,5 +1,4 @@
 Thanks for visiting my website and for your interest in my research. I am currently a postdoctoral research fellow at the University of Edinburgh in the School of Health in Social Sciences. My overarching research interests are child psychology, eating behaviours and child development. I am currently working on my independent research investigating the development of eating trajectories in young children, please get in touch if you are keen to collaborate.  
-I have recently finished as the postdoctoral research lead on the ESRC-funded research Appetite in Preschoolers: Producing Evidence for Tailoring Interventions Effectively [(APPETItE)](https://www.appetite-research.com/).
 
 #### Email
 
