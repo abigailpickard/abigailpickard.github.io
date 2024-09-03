@@ -2,7 +2,7 @@ Thanks for visiting my website and for your interest in my research. I am curren
 
 #### Email
 
-[a.pickard\@ed.ac.uk](mailto:a.pickard@aston.ac.uk)
+[a.pickard\@ed.ac.uk](mailto:a.pickard@ed.ac.uk)
 
 #### Education
 
