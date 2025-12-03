@@ -1,6 +1,6 @@
 -   Edwards, K. L., <strong><strong>Pickard, A.</strong></strong>, Farrow, C., Haycraft, E., Herle, M., Llewellyn, C., Croker, H., & Blissett, J. (2026). Parental use of distraction and portioning to reduce snack intake by children with avid eating behaviour: An experimental laboratory study. Appetite, 216, 108257. [[Paper]](https://doi.org/10.1016/j.appet.2025.108257)
 
--  Nimbley, E., Bradley, S., <strong><strong>Pickard, A.</strong></strong> et al. 2025. “ Towards Identifying Autistic Adults at Risk for Eating Disorders: A Brief Report Into Clustering of Social Camouflaging and Sensory Processing Differences,” European Eating Disorders Review: 1–7. [[Paper]](https://doi.org/10.1002/erv.70062)
+-  Nimbley, E., Bradley, S., <strong><strong>Pickard, A.</strong></strong> et al. 2025. Towards Identifying Autistic Adults at Risk for Eating Disorders: A Brief Report Into Clustering of Social Camouflaging and Sensory Processing Differences, European Eating Disorders Review: 1–7. [[Paper]](https://doi.org/10.1002/erv.70062)
 
 -  <strong><strong>Pickard, A.</strong></strong>, Edwards, K. L., Farrow, C., Haycraft, E., Herle, M., Llewellyn, C., Croker, H., & Blissett, J. (2025). Daily manifestations of Children’s avid eating behaviour and associations with temperament, parental feeding practices and wellbeing. Appetite, 211, 107982. [[Paper]](https://doi.org/10.1016/j.appet.2025.107982) 
 
