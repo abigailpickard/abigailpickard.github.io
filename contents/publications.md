@@ -1,8 +1,20 @@
+-   Edwards, K. L., <strong><strong>Pickard, A.</strong></strong>, Farrow, C., Haycraft, E., Herle, M., Llewellyn, C., Croker, H., & Blissett, J. (2026). Parental use of distraction and portioning to reduce snack intake by children with avid eating behaviour: An experimental laboratory study. Appetite, 216, 108257. [[Paper]](https://doi.org/10.1016/j.appet.2025.108257)
+
+-  Nimbley, E., Bradley, S., <strong><strong>Pickard, A.</strong></strong> et al. 2025. “ Towards Identifying Autistic Adults at Risk for Eating Disorders: A Brief Report Into Clustering of Social Camouflaging and Sensory Processing Differences,” European Eating Disorders Review: 1–7. [[Paper]](https://doi.org/10.1002/erv.70062)
+
+-  <strong><strong>Pickard, A.</strong></strong>, Edwards, K. L., Farrow, C., Haycraft, E., Herle, M., Llewellyn, C., Croker, H., & Blissett, J. (2025). Daily manifestations of Children’s avid eating behaviour and associations with temperament, parental feeding practices and wellbeing. Appetite, 211, 107982. [[Paper]](https://doi.org/10.1016/j.appet.2025.107982) 
+
+-  Lozano-Casanova, M., Escribano, S., <strong><strong>Pickard, A.</strong></strong>, Edwards, K. L., Kininmonth, A. R., Richart-Martinez, M., Sospedra, I., Farrow, C., & Blissett, J. (2026). Validating the children’s eating behaviour questionnaire in a UK sample: A suitable tool for mothers and fathers. Appetite, 216, 108322. [[Paper]](https://doi.org/10.1016/j.appet.2025.108322) 
+
+-  <strong><strong>Pickard, A.</strong></strong>, Alving-Jessep, E., Delivett, C., Jenkins, R. H., Pullar, L., Farrow, C., & Blissett, J. Improving children’s diets by introducing fruits and vegetables in group-based settings: A scoping review. Nutrition Reviews. nuaf092. [[Paper]](https://doi.org/10.1093/nutrit/nuaf092)
+
+-  Edwards, K.L., & <strong><strong>Pickard, A.</strong></strong>, Farrow, C. et al. (2025). Parental use of structure-based and autonomy support feeding practices with children with avid eating behaviour: an Ecological Momentary Assessment study. International Journal of Behavioral Nutrition & Physical Activity. 22, 66. [[Paper]](https://doi.org/10.1186/s12966-025-01768-x)
+
 -   <strong><strong>Pickard, A.</strong></strong>, Edwards, K., Farrow, C., Haycraft, E., & Blissett, J. (2025). Capturing Everyday Parental Feeding Practices and Eating Behaviors of 3- to 5-Year-Old Children With Avid Eating Behavior: Ecological Momentary Assessment Feasibility and Acceptability Study. JMIR Formative Research, 9, e66807–e66807. [[Paper]](https://doi.org/10.2196/66807)
 
--   <strong><strong>Pickard, A.</strong></strong>, Edwards, K., Farrow, C., Haycraft, E., Herle, M., Llewellyn, C., Croker, H., Kininmonth, A., & Blissett, J. (2025). Parents’ use of coercive and indulgent feeding practices for children with avid eating behaviour: an Ecological Momentary Assessment study. International Journal of Behavioral Nutrition & Physical Activity. 22, 16. [[Paper]](https://doi.org/10.1186/s12966-025-01715-w) 
+-  Edwards, K. L., <strong><strong>Pickard, A.</strong></strong>, Farrow, C., & Blissett, J. (2025). Validation of the Teddy the Bear hunger and satiety rating scale in 3-5-year-old children. Appetite, 211, 108016. [[Paper]](https://doi.org/10.1016/j.appet.2025.108016)
 
--   Edwards, K. L., <strong><strong>Pickard, A.</strong></strong>, Farrow, C., Haycraft, E., Herle, M., Llewellyn, C., Croker, H., & Blissett, J. (2024). Parental use of distraction and portioning to reduce children’s snack intake: An experimental laboratory study. [[Paper]](https://doi.org/10.31234/osf.io/3fhyw)
+-   <strong><strong>Pickard, A.</strong></strong>, Edwards, K., Farrow, C., Haycraft, E., Herle, M., Llewellyn, C., Croker, H., Kininmonth, A., & Blissett, J. (2025). Parents’ use of coercive and indulgent feeding practices for children with avid eating behaviour: an Ecological Momentary Assessment study. International Journal of Behavioral Nutrition & Physical Activity. 22, 16. [[Paper]](https://doi.org/10.1186/s12966-025-01715-w) 
 
 -   <strong><strong>Pickard, A.</strong></strong>, Farrow, C., Haycraft, E., Herle, M., Edwards, K., Llewellyn, C., ... & Blissett, J. (2024). Associations between parent and child latent eating profiles and the role of parental feeding practices. Appetite, 201, 107589. [[Paper]](https://doi.org/10.1016/j.appet.2024.107589)
 
